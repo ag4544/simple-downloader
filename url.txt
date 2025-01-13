@@ -1,0 +1,6 @@
+https://cloud-images.ubuntu.com/noble/20250108/noble-server-cloudimg-amd64.vmdk
+https://cloud-images.ubuntu.com/noble/20250108/noble-server-cloudimg-riscv64.squashfs
+https://github.com/docker/compose/releases/download/v2.32.3/docker-compose-windows-x86_64.exe
+https://github.com/docker/compose/archive/refs/tags/v2.32.3.zip
+https://nonexistingurl.local
+https://musify.club/track/dl/1534816/wrong-file
